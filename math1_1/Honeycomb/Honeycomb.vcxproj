@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{5CC99FE7-888B-4F34-9DC4-122029F76396}</ProjectGuid>
+    <ProjectGuid>{8B4EA9AC-2EE8-464A-B295-4842D6FD663B}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>BrakeEvenPoint</RootNamespace>
+    <RootNamespace>Honeycomb</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="brake_Even_Point.c" />
+    <ClCompile Include="honey.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
